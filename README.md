@@ -18,7 +18,7 @@ This is a developing personal page for documenting projects:
       <li>Supply Chains: Food & Commodities</li>
       <li>Visualizing Information</li>
       <li>Tor network</li>
-      <li>Blockchain & Crytpocurrency</li>
+      <li>Blockchain & Cryptocurrency</li>
     </ul>
   </li>
 </ul>
