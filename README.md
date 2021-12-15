@@ -6,7 +6,7 @@ This is a developing personal page for documenting projects:
 <ul>
   <li><a href="https://ocw.mit.edu/">MIT OCW</a></li>
   <li><a href="https://qubes-os.org">Qubes OS</a></li>
-  <li>Android Custom ROMs</li>
+  <li><a href="https://www.howtogeek.com/348545/how-to-install-lineageos-on-android/">Android Custom ROMs</a></li>
   <li>Devving tools for OSINT</li>
   <li>Writings & OSINT Studies
     <ul>
