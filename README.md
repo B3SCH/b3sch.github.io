@@ -17,7 +17,7 @@ This is a developing personal page for documenting projects:
       <li>Mining Twitter</li>
       <li>Supply Chains: Food & Commodities</li>
       <li>Visualizing Information</li>
-      <li>Tor network</i>
+      <li>Tor network</li>
     </ul>
   </li>
 </ul>
